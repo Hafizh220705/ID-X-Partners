@@ -39,7 +39,7 @@ Dari berbagai model yang diuji, **XGBoost Classifier** dipilih sebagai model ter
 ## 🚀 **Cara Menjalankan Proyek**
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/Hafizh220705/ID-X-Partners.git
    ```
 2. Install dependencies:
    ```bash
@@ -47,7 +47,7 @@ Dari berbagai model yang diuji, **XGBoost Classifier** dipilih sebagai model ter
    ```
 3. Jalankan Notebook atau file Python:
    ```bash
-   jupyter notebook final_project.ipynb
+   jupyter notebook Hafizh Fadhl Muhammad - Credit Risk.ipynb
    ```
    atau
    ```bash
@@ -62,6 +62,6 @@ Proyek ini dirilis di bawah lisensi **MIT** - Bebas digunakan dan dimodifikasi d
 
 ---
 
-✍ **Dibuat oleh:** [Nama Lengkap]  
+✍ **Dibuat oleh:** [Hafizh Fadhl Muhammad]  
 📅 **Internship Data Scientist - ID/X Partners**
 
