@@ -8,10 +8,9 @@ Model yang dikembangkan diimplementasikan menggunakan bahasa pemrograman **Pytho
 ## 📂 **Struktur Proyek**
 
 📁 **[Nama Lengkap]_VIX_IDX_Partners/**
-- 📜 `final_project.ipynb` - Notebook berisi seluruh proses analisis dan pemodelan.
-- 📜 `main.py` - File Python untuk menjalankan pipeline model.
-- 📜 `data.csv` - Dataset utama yang digunakan dalam analisis.
-- 📜 `data_dictionary.xlsx` - Penjelasan tentang setiap kolom dalam dataset.
+- 📜 `Hafizh Fadhl Muhammad - Credit Risk.ipynb` - Notebook berisi seluruh proses analisis dan pemodelan.
+- 📜 `loan_data_2007_2014.csv` - Dataset utama yang digunakan dalam analisis.
+- 📜 `LCDataDictionary.xlsx` - Penjelasan tentang setiap kolom dalam dataset.
 - 📜 `infografis.pdf` - Media visual untuk presentasi end-to-end solution.
 
 ## 🛠 **Teknologi yang Digunakan**
